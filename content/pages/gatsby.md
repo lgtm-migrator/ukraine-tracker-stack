@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gatsby
-subtitle: lorem-ipsum
+subtitle: Gatsbyjs framework
 seo:
   title: Gatsby
   description: Everything about gatsbyjs
