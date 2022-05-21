@@ -4,7 +4,7 @@ title: Gatsby
 subtitle: lorem-ipsum
 seo:
   title: Gatsby
-  description: ''
+  description: Everything about gatsbyjs
   robots:
     - all
   extra:
