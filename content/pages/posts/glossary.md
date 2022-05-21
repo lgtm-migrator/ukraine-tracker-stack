@@ -8,7 +8,7 @@ excerpt: lorem-ipsum
 hide_header: false
 seo:
   title: web development glossary
-  description: ''
+  description: web development glossary
   robots: []
   extra: []
 thumb_img_path: /images/webdev.jpg
