@@ -12,6 +12,7 @@ seo:
   robots: []
   extra: []
 thumb_img_path: /images/web-dev-back.jpg
+content_img_path: /images/web-dev-back.jpg
 ---
 ## A
 
