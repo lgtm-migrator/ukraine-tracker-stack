@@ -3,7 +3,7 @@ layout: page
 title: Gatsby
 subtitle: lorem-ipsum
 seo:
-  title: ''
+  title: Gatsby
   description: ''
   robots:
     - all
