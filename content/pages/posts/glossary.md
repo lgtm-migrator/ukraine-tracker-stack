@@ -11,7 +11,7 @@ seo:
   description: ''
   robots: []
   extra: []
-thumb_img_path: /images/web-dev-back.jpg
+thumb_img_path: /images/webdev.jpg
 content_img_path: /images/web-dev-back.jpg
 ---
 ## A
