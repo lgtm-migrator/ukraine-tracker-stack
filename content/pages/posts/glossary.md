@@ -10,7 +10,11 @@ seo:
   title: web development glossary
   description: web development glossary
   robots: []
-  extra: []
+  extra:
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
 thumb_img_path: /images/webdev.jpg
 content_img_path: /images/web-dev-back.jpg
 ---
