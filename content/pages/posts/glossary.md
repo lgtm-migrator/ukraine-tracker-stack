@@ -7,7 +7,7 @@ thumb_img_alt: web development
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-  title: ''
+  title: web development glossary
   description: ''
   robots: []
   extra: []
