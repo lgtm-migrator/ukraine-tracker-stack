@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gatsby
-subtitle: GatsbyJS framewor
+subtitle: GatsbyJS framework
 seo:
   title: Gatsby
   description: Everything about gatsbyjs
