@@ -3,7 +3,7 @@ layout: post
 title: Glossary
 subtitle: lorem-ipsum
 date: '2022-05-21'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: web development
 excerpt: lorem-ipsum
 hide_header: false
 seo:
