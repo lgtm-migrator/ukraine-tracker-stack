@@ -9,7 +9,7 @@ seo:
   extra:
     - name: main
       value: 'https://bgoonz-blog.netlify.app/'
-      keyName: name
+      keyName: url
       relativeUrl: false
 img_path: /images/nasa_earth_grid.jpg
 ---
