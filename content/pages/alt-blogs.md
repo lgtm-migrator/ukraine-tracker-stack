@@ -4,7 +4,7 @@ title: Alternative Blogs
 subtitle: Other places where I share my blog content
 seo:
   title: alternative blogs
-  description: ''
+  description: my other blogs
   robots: []
   extra: []
 img_path: /images/nasa_earth_grid.jpg
