@@ -8,7 +8,7 @@ seo:
   robots: []
   extra:
     - name: main
-      value: ''
+      value: 'https://bgoonz-blog.netlify.app/'
       keyName: name
       relativeUrl: false
 img_path: /images/nasa_earth_grid.jpg
