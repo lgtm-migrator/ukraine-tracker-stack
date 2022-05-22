@@ -10,7 +10,7 @@ seo:
     - name: main
       value: 'https://bgoonz-blog.netlify.app/'
       keyName: url
-      relativeUrl: true
+      relativeUrl: false
 img_path: /images/nasa_earth_grid.jpg
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
