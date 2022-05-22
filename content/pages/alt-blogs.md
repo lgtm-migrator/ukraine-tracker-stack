@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative Blogs
-subtitle: lorem-ipsum
+subtitle: 'Other places where I share my '
 seo:
   title: ''
   description: ''
