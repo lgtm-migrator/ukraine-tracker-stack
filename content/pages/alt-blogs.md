@@ -7,7 +7,7 @@ seo:
   description: my other blogs
   robots: []
   extra:
-    - name: ''
+    - name: main
       value: ''
       keyName: name
       relativeUrl: false
