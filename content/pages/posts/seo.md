@@ -11,4 +11,5 @@ seo:
 layout: post
 subtitle: Tools of the trade
 thumb_img_path: /images/good-avocado.png
+content_img_path: /images/1.jpg
 ---
