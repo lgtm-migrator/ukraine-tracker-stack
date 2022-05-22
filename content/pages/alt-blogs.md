@@ -3,7 +3,7 @@ layout: page
 title: Alternative Blogs
 subtitle: Other places where I share my blog content
 seo:
-  title: ''
+  title: alternat
   description: ''
   robots: []
   extra: []
