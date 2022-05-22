@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative Blogs
-subtitle: 'Other places where I share my '
+subtitle: Other places where I share my blog content
 seo:
   title: ''
   description: ''
