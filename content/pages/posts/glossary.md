@@ -6,7 +6,7 @@ thumb_img_alt: Ukraine geopolitics
 excerpt: a laymans glossary guide
 hide_header: false
 seo:
-  title: web development glossary
+  title: geopoliticalt glossary
   description: web development glossary
   robots: []
   extra:
