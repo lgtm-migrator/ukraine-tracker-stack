@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: content
-      value: ''
+      value: glossary
       keyName: name
       relativeUrl: false
     - name: ''
