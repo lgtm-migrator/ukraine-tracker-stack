@@ -6,7 +6,7 @@ thumb_img_alt: youtube logo fancy
 hide_header: false
 seo:
   title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  description: youtube sources for this website/article
   extra:
     - name: 'og:type'
       value: article
