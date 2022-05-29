@@ -2,7 +2,7 @@
 title: Youtube
 date: '2022-05-29'
 thumb_img_path: /images/youtube.jpg
-thumb_img_alt: Icelandic horses
+thumb_img_alt: youtube logo fancy
 hide_header: true
 seo:
   title: Fragments of Iceland
