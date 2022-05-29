@@ -22,377 +22,337 @@ thumb_img_path: /images/istockphoto-1398838719-170667a-a08f08ea.jpg
 content_img_path: /images/istockphoto-1398838719-170667a-a08f08ea.jpg
 title: Glossary
 ---
-## A
+# Glossary
 
-### AST
 
-Abstract Syntax Tree: A tree representation of the source code that is found during a [compilation](https://www.gatsbyjs.com/docs/glossary/#compiler) step between two languages. For example, [gatsby-transformer-remark](https://www.gatsbyjs.com/plugins/gatsby-transformer-remark/) will create an AST from [Markdown](https://www.gatsbyjs.com/docs/glossary/#markdown) to describe a Markdown document in a tree structure using the [Remark](https://www.gatsbyjs.com/docs/glossary/#remark) parser.
 
-### API
+![](/images/photo-1613842683240-19b2880f1e9e-0ef596cd.jpg)
 
-Application Programming Interface: A method for one application to communicate with another. For example, a [source plugin](https://www.gatsbyjs.com/docs/glossary/#source-plugin) will often use an API to get its data.
+*   [abdication](https://www.infoplease.com/encyclopedia/social-science/government/concepts/abdication)
 
-### Accessibility
+*   [absolute monarchy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/absolute-monarchy)
 
-The inclusive practice of removing barriers that prevent interaction with, or access to websites, by people with disabilities. When sites are correctly designed, developed and edited for accessibility, generally all users have equal access to information and functionality. Read about [Gatsby’s Commitment to Accessibility](https://www.gatsbyjs.com/blog/2019-04-18-gatsby-commitment-to-accessibility/).
+*   [airmail](https://www.infoplease.com/encyclopedia/social-science/government/concepts/airmail)
 
-## B
+*   [allegiance](https://www.infoplease.com/encyclopedia/social-science/government/concepts/allegiance)
 
-### Babel
+*   [anarchism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/anarchism)
 
-A tool that lets you write the most modern [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript), and during the [build](https://www.gatsbyjs.com/docs/glossary/#build) process it gets [transpiled](https://www.gatsbyjs.com/docs/glossary/#transpile) to code that most web browsers can understand.
+*   [annexation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/annexation)
 
-### Backend
+*   [aristocracy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/aristocracy)
 
-The behind the scenes that the [public](https://www.gatsbyjs.com/docs/glossary/#public) does not see. This often refers to the control panel of your [CMS](https://www.gatsbyjs.com/docs/glossary/#cms). These are often powered by server-side programming languages such as Node.js, PHP, Go, ASP.net, Ruby, or Java.
+*   [autonomy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/autonomy)
 
-### [Build](https://www.gatsbyjs.com/docs/glossary/build/)
+*   [balance of power](https://www.infoplease.com/encyclopedia/social-science/government/concepts/balance-of-power)
 
-In Gatsby, this is the process of taking your code and content and packaging it into a website that can be hosted and accessed. Commonly referred to as *build time*. See also: [backend](https://www.gatsbyjs.com/docs/glossary/#backend) and [server-side](https://www.gatsbyjs.com/docs/glossary/#server-side).
+*   [ballot](https://www.infoplease.com/encyclopedia/social-science/government/concepts/ballot)
 
-## C
+*   [bicameral system](https://www.infoplease.com/encyclopedia/social-science/government/concepts/bicameral-system)
 
-### Cache
+*   [bloc, parliamentary](https://www.infoplease.com/encyclopedia/social-science/government/concepts/bloc-parliamentary)
 
-A storage of information locally that might be used again, so computations and lookups can be retrieved faster from one place. Gatsby uses a cache to store information so it can build your site faster when you’re developing without needing to do the same work twice.
+*   [borough](https://www.infoplease.com/encyclopedia/social-science/government/concepts/borough)
 
-### CLI
+*   [bossism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/bossism)
 
-Command Line Interface: An application that runs on your computer through the [command line](https://www.gatsbyjs.com/docs/glossary/#command-line) and interacted with your keyboard.
+*   [bureaucracy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/bureaucracy)
 
-Gatsby has two command line interfaces. One, [`gatsby`](https://www.gatsbyjs.com/docs/reference/gatsby-cli/), for day-to-day development with Gatsby and another, [`gatsby-dev`](https://www.gatsbyjs.com/contributing/code-contributions#setting-up-your-local-dev-environment), for those who contribute to the Gatsby project.
+*   [cabinet](https://www.infoplease.com/encyclopedia/social-science/government/concepts/cabinet)
 
-### Client-side
+*   [campaign, political](https://www.infoplease.com/encyclopedia/social-science/government/concepts/campaign-political)
 
-Client-side refers to operations that are performed by the user’s browser in a [client–server relationship](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) in a computer network. In Gatsby, this is important when [working with packages](https://www.gatsbyjs.com/docs/using-client-side-only-packages/) that rely on objects in the [browser DOM](https://www.gatsbyjs.com/docs/glossary/#dom), such as `window` or `navigator`. See also: [server-side](https://www.gatsbyjs.com/docs/glossary/#server-side), [frontend](https://www.gatsbyjs.com/docs/glossary/#frontend), and [backend](https://www.gatsbyjs.com/docs/glossary/#backend).
+*   [caucus](https://www.infoplease.com/encyclopedia/social-science/government/concepts/caucus)
 
-### Client-side rendering
+*   [caudillo](https://www.infoplease.com/encyclopedia/social-science/government/concepts/caudillo)
 
-The practice of using JavaScript to render pages on the [client-side](https://www.gatsbyjs.com/docs/glossary/#client-side), as opposed to [server-side rendering](https://www.gatsbyjs.com/docs/glossary/server-side-rendering/) alone. Gatsby uses [React](https://www.gatsbyjs.com/docs/glossary/#react) and the [`@reach/router`](https://reach.tech/router/) library to enhance HTML pages compiled at [build time](https://www.gatsbyjs.com/docs/glossary/#build) to navigate site pages in a web browser without traditional page reloads, enabling performance techniques like preloading and [pre-fetching](https://www.gatsbyjs.com/docs/reference/routing/creating-routes/#performance-and-prefetching), [intersection observer and responsive `srcset`](https://www.gatsbyjs.com/blog/2019-04-02-behind-the-scenes-what-makes-gatsby-great/#modern-apis-in-gatsby) for images, and more. See also: [routing](https://www.gatsbyjs.com/docs/glossary/#routing), which is handled on the client-side in Gatsby by default.
+*   [center](https://www.infoplease.com/encyclopedia/social-science/government/concepts/center)
 
-### CMS
+*   [charter](https://www.infoplease.com/encyclopedia/social-science/government/concepts/charter)
 
-Content Management System: an application where you can manage your content and have it saved to a database or file for accessing later. Examples of Content Management Systems include WordPress, Drupal, Contentful, and Netlify CMS.
+*   [chauvinism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/chauvinism)
 
-### Command Line
+*   [church and state](https://www.infoplease.com/encyclopedia/social-science/government/concepts/church-and-state)
 
-A text-based interface to run commands on your computer. The default Command Line applications for Mac and Windows are `Terminal` and `Command Prompt` respectively.
+*   [citizen](https://www.infoplease.com/encyclopedia/social-science/government/concepts/citizen)
 
-### Compiler
+*   [city](https://www.infoplease.com/encyclopedia/social-science/government/concepts/city)
 
-A compiler is a program that translates code written in one language to another language. For example [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby) can compile [React](https://www.gatsbyjs.com/docs/glossary/#react) applications into static [HTML](https://www.gatsbyjs.com/docs/glossary/#html) files. See also: [transpile](https://www.gatsbyjs.com/docs/glossary/#transpile).
+*   [city government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/city-government)
 
-### Component
+*   [city manager](https://www.infoplease.com/encyclopedia/social-science/government/concepts/city-manager)
 
-Components are independent and re-usable chunks of code powered by [React](https://www.gatsbyjs.com/docs/glossary/#react) that, when combined, make up your website or app.
+*   [civics](https://www.infoplease.com/encyclopedia/social-science/government/concepts/civics)
 
-A component can include components within it. In fact, [pages](https://www.gatsbyjs.com/docs/glossary/#page) and [templates](https://www.gatsbyjs.com/docs/glossary/#template) are examples of components.
+*   [civil liberty](https://www.infoplease.com/encyclopedia/social-science/government/concepts/civil-liberty)
 
-### Config
+*   [civil service](https://www.infoplease.com/encyclopedia/social-science/government/concepts/civil-service)
 
-The configuration file, `gatsby-config.js`/`gatsby-config.ts` tells Gatsby information about your website. A common option to set in this config is your site’s metadata that can power your SEO meta tags.
+*   [colonization](https://www.infoplease.com/encyclopedia/social-science/government/concepts/colonization)
 
-### [Content Delivery Network](https://www.gatsbyjs.com/docs/glossary/content-delivery-network/)
+*   [colony](https://www.infoplease.com/encyclopedia/social-science/government/concepts/colony)
 
-A content delivery network (CDN) is a highly distributed network of servers that stores copies of your content in locations that are closer to your site’s visitors. Content delivery networks improve your site’s performance by reducing the time needed to complete a network request.
+*   [committee](https://www.infoplease.com/encyclopedia/social-science/government/concepts/committee)
 
-### [Continuous Deployment](https://www.gatsbyjs.com/docs/glossary/continuous-deployment/)
+*   [commonwealth](https://www.infoplease.com/encyclopedia/social-science/government/concepts/commonwealth)
 
-Continuous deployment (CD) automates the process of releasing changes to your project. A continuous deployment workflow automatically builds and tests your project, and publishes your changes only when they pass the required tests.
+*   [communism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/communism)
 
-### CSS
+*   [conscientious objector](https://www.infoplease.com/encyclopedia/social-science/government/concepts/conscientious-objector)
 
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) stands for Cascading Style Sheets, and it’s a major part of the Web Platform with [HTML](https://www.gatsbyjs.com/docs/glossary/#html) and [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript). CSS is a language for styling webpages designed to be highly backwards-compatible. As new features are rolled out to end users, [CSS parsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#CSS_parsing) can safely ignore unsupported features and enhance with the properties they do support. CSS accomplishes this with its *cascading* design, fundamental to styling with new techniques like [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement) while providing fallbacks for older browsers. Gatsby supports multiple [approaches to styling](https://www.gatsbyjs.com/docs/styling/), including regular CSS files, CSS modules, and CSS-in-JS.
+*   [conservatism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/conservatism)
 
-## D
+*   [constitution](https://www.infoplease.com/encyclopedia/social-science/government/concepts/constitution)
 
-### Data Source
+*   [convention](https://www.infoplease.com/encyclopedia/social-science/government/concepts/convention)
 
-Content and data’s origin point, typically integrated into Gatsby with [source plugins](https://www.gatsbyjs.com/docs/glossary/#source-plugin). A data source is often a [Headless CMS](https://www.gatsbyjs.com/docs/glossary/#headless-cms), but it could also include Markdown, JSON, or YAML files.
+*   [coronation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/coronation)
 
-### Database
+*   [corrupt practices](https://www.infoplease.com/encyclopedia/social-science/government/concepts/corrupt-practices)
 
-A database is a structured collection of data or content. Often a [CMS](https://www.gatsbyjs.com/docs/glossary/#cms) will save to a database using [backend technologies](https://www.gatsbyjs.com/docs/glossary/#backend). They’re often accessed in Gatsby via a [source plugin](https://www.gatsbyjs.com/docs/glossary/#source-plugin)
+*   [county](https://www.infoplease.com/encyclopedia/social-science/government/concepts/county)
 
-### Decoupled
+*   [dark horse](https://www.infoplease.com/encyclopedia/social-science/government/concepts/dark-horse)
 
-Decoupling describes the separation of different concerns. With [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby) this most commonly means decoupling the [frontend](https://www.gatsbyjs.com/docs/glossary/#frontend) from the [backend](https://www.gatsbyjs.com/docs/glossary/#backend), like with [Decoupled Drupal](https://dri.es/how-to-decouple-drupal-in-2019) or [Headless WordPress](https://www.smashingmagazine.com/2018/10/headless-wordpress-decoupled/).
+*   [democracy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/democracy)
 
-### [Decoupled Drupal](https://www.gatsbyjs.com/docs/glossary/decoupled-drupal/)
+*   [deportation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/deportation)
 
-Decoupling refers to the practice of using Drupal as a [headless CMS](https://www.gatsbyjs.com/docs/glossary/#headless-cms). A decoupled Drupal instance functions as a content API that returns JSON for your [frontend](https://www.gatsbyjs.com/docs/glossary/#frontend) to consume.
+*   [despotism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/despotism)
 
-### Deferred Static Generation (DSG)
+*   [détente](https://www.infoplease.com/encyclopedia/social-science/government/concepts/detente)
 
-[Deferred Static Generation (DSG)](https://www.gatsbyjs.com/docs/how-to/rendering-options/using-deferred-static-generation/) is one of [Gatsby’s rendering options](https://www.gatsbyjs.com/docs/conceptual/rendering-options/) and allows you to defer non-critical page generation to user request, speeding up build times. Instead of generating every page at build time, you can decide to build certain pages up front and others only when a user accesses the page at run time.
+*   [dictator](https://www.infoplease.com/encyclopedia/social-science/government/concepts/dictator)
 
-### Deploy
+*   [divine right](https://www.infoplease.com/encyclopedia/social-science/government/concepts/divine-right)
 
-The process of [building](https://www.gatsbyjs.com/docs/glossary/#build) your website or app and uploading onto a [hosting provider](https://www.gatsbyjs.com/docs/glossary/#hosting).
+*   [dominion](https://www.infoplease.com/encyclopedia/social-science/government/concepts/dominion)
 
-### Development Environment
+*   [domino theory](https://www.infoplease.com/encyclopedia/social-science/government/concepts/domino-theory)
 
-The [environment](https://www.gatsbyjs.com/docs/glossary/#environment) when you’re developing your code. It’s accessed through the [CLI](https://www.gatsbyjs.com/docs/glossary/#cli) using `gatsby develop`, and provides extra error reporting and things to help you debug before building for [production](https://www.gatsbyjs.com/docs/glossary/#production-environment).
+*   [election](https://www.infoplease.com/encyclopedia/social-science/government/concepts/election)
 
-### DOM
+*   [embargo](https://www.infoplease.com/encyclopedia/social-science/government/concepts/embargo)
 
-The Document Object Model, commonly referred to as “the DOM”, is a standard browser API that connects web pages to scripts or programming languages by representing the structure of an HTML document in memory. Developers commonly interact with the DOM through [HTML](https://www.gatsbyjs.com/docs/glossary/#html) markup (written in [JSX](https://www.gatsbyjs.com/docs/glossary/#jsx) in Gatsby), as well as both [React](https://reactjs.org/docs/react-dom.html) and [vanilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#DOM_and_JavaScript) code. Another important aspect of utilizing the DOM to its full potential is writing [accessible](https://www.gatsbyjs.com/docs/glossary/#accessibility) HTML markup to expose a page’s structure to assistive technology.
+*   [emperor](https://www.infoplease.com/encyclopedia/social-science/government/concepts/emperor)
 
-## E
+*   [executive](https://www.infoplease.com/encyclopedia/social-science/government/concepts/executive)
 
-### ECMAScript
+*   [executive privilege](https://www.infoplease.com/encyclopedia/social-science/government/concepts/executive-privilege)
 
-ECMAScript (often referred to as ES) is a specification for scripting languages. [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) is an implementation of ECMAScript. Often developers will use [Babel](https://www.gatsbyjs.com/docs/glossary/#babel) to [transpile](https://www.gatsbyjs.com/docs/glossary/#transpile) the latest ECMAScript code into more widely supported JavaScript.
+*   [exile](https://www.infoplease.com/encyclopedia/social-science/government/concepts/exile)
 
-### Environment
+*   [expatriation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/expatriation)
 
-The environment that Gatsby runs in. For example, when you are writing your code you probably want as much debugging as possible, but that’s undesirable on the live website or app. As such, Gatsby can change its behavior depending on the environment it’s in.
+*   [exterritoriality](https://www.infoplease.com/encyclopedia/social-science/government/concepts/exterritoriality)
 
-Gatsby supports two environments by default, the [development environment](https://www.gatsbyjs.com/docs/glossary/#development-environment) and the [production environment](https://www.gatsbyjs.com/docs/glossary/#production-environment).
+*   [extradition](https://www.infoplease.com/encyclopedia/social-science/government/concepts/extradition)
 
-### Environment Variables
+*   [extraterritoriality](https://www.infoplease.com/encyclopedia/social-science/government/concepts/extraterritoriality)
 
-[Environment Variables](https://www.gatsbyjs.com/docs/how-to/local-development/environment-variables/) allow you to customize the behavior of your app depending on its [environment](https://www.gatsbyjs.com/docs/glossary/#environment). For instance, you may wish to get content from a staging CMS during development and connect to your production CMS when you [build](https://www.gatsbyjs.com/docs/glossary/#build) your site. With environment variables you can set a different URL for each environment.
+*   [fascism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/fascism)
 
-## F
+*   [federal government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/federal-government)
 
-### Filesystem
+*   [federation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/federation)
 
-The way files are organized. With Gatsby, it means having files in the same place as your website’s or app’s code instead of pulling data from an external [source](https://www.gatsbyjs.com/docs/glossary/#data-source). Common filesystem usage in Gatsby includes Markdown content, images, data files, and other assets.
+*   [filibuster](https://www.infoplease.com/encyclopedia/social-science/government/concepts/filibuster)
 
-### Frontend
+*   [flag](https://www.infoplease.com/encyclopedia/social-science/government/concepts/flag)
 
-The [public-facing](https://www.gatsbyjs.com/docs/glossary/#public) interface for your website or app, delivered using web technologies: HTML, CSS, and JavaScript. For more insight into how the Web Platform brings these technologies together, check out this article on [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/).
+*   [franchise](https://www.infoplease.com/encyclopedia/social-science/government/concepts/franchise)
 
-## G
+*   [freedom](https://www.infoplease.com/encyclopedia/social-science/government/concepts/freedom)
 
-### Gatsby
+*   [freedom of the press](https://www.infoplease.com/encyclopedia/social-science/government/concepts/freedom-of-the-press)
 
-Gatsby is a modern website framework that builds performance into every website or app by leveraging the latest web technologies such as [React](https://www.gatsbyjs.com/docs/glossary/#react), [GraphQL](https://www.gatsbyjs.com/docs/glossary/#graphql), and modern [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript). Gatsby makes it easy to create blazing fast, compelling web experiences without needing to become a performance expert.
+*   [freedom of the seas](https://www.infoplease.com/encyclopedia/social-science/government/concepts/freedom-of-the-seas)
 
-### [GraphQL](https://www.gatsbyjs.com/docs/glossary/graphql/)
+*   [geopolitics](https://www.infoplease.com/encyclopedia/social-science/government/concepts/geopolitics)
 
-A [query](https://www.gatsbyjs.com/docs/glossary/#query) language that allows you to pull data into your website or app. It’s the [interface that Gatsby uses](https://www.gatsbyjs.com/docs/graphql/) for managing site data.
+*   [gerrymander](https://www.infoplease.com/encyclopedia/social-science/government/concepts/gerrymander)
 
-## H
+*   [government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/government-overview)
 
-### HTML
+*   [government ownership](https://www.infoplease.com/encyclopedia/social-science/government/concepts/government-ownership)
 
-A markup language that every web browser is able to understand. It stands for Hypertext Markup Language. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) gives your web content a universal informational structure, defining things like headings, paragraphs, and more. It is also key to providing an accessible website.
+*   [governor](https://www.infoplease.com/encyclopedia/social-science/government/concepts/governor)
 
-### [Headless CMS](https://www.gatsbyjs.com/docs/glossary/headless-cms/)
+*   [home rule, municipal](https://www.infoplease.com/encyclopedia/social-science/government/concepts/home-rule-municipal)
 
-A [CMS](https://www.gatsbyjs.com/docs/glossary/#cms) that only handles the [backend](https://www.gatsbyjs.com/docs/glossary/#backend) content management instead of handling both the backend and [frontend](https://www.gatsbyjs.com/docs/glossary/#frontend). This type of setup is also referred to as [Decoupled](https://www.gatsbyjs.com/docs/glossary/#decoupled).
+*   [impeachment](https://www.infoplease.com/encyclopedia/social-science/government/concepts/impeachment)
 
-### [Headless WordPress](https://www.gatsbyjs.com/docs/glossary/headless-wordpress/)
+*   [imperialism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/imperialism)
 
-The practice of using JSON returned from the WordPress REST API as a [headless CMS](https://www.gatsbyjs.com/docs/glossary/#headless-cms). It allows you to use WordPress to write and edit content that can be consumed by any client capable of parsing JSON.
+*   [impressment](https://www.infoplease.com/encyclopedia/social-science/government/concepts/impressment)
 
-### Hosting
+*   [initiative](https://www.infoplease.com/encyclopedia/social-science/government/concepts/initiative)
 
-A hosting provider keeps a copy of your website or app and makes it accessible to [the public](https://www.gatsbyjs.com/docs/glossary/#public). [Common hosting providers for Gatsby](https://www.gatsbyjs.com/docs/deploying-and-hosting/) projects include Netlify, AWS, S3, Surge, Heroku, and more.
+*   [international relations](https://www.infoplease.com/encyclopedia/social-science/government/concepts/international-relations)
 
-### Hot module replacement
+*   [jingoism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/jingoism)
 
-A feature in use when you run `gatsby develop` that live updates your site on save of code in a text editor by automatically replacing modules, or chunks of code, in an open browser window. Gatsby uses [Fast Refresh](https://www.gatsbyjs.com/docs/reference/local-development/fast-refresh/).
+*   [justice of the peace](https://www.infoplease.com/encyclopedia/social-science/government/concepts/justice-of-the-peace)
 
-### [Hydration](https://www.gatsbyjs.com/docs/glossary/hydration/)
+*   [left](https://www.infoplease.com/encyclopedia/social-science/government/concepts/left)
 
-Once a site has been [built](https://www.gatsbyjs.com/docs/glossary/#build) by Gatsby and loaded in a web browser, [client-side](https://www.gatsbyjs.com/docs/glossary/#client-side) JavaScript assets will download and turn the site into a full React application that can manipulate the [DOM](https://www.gatsbyjs.com/docs/glossary/#dom). This process is often called re-hydration as it runs some of the same JavaScript code used to generate Gatsby pages, but this time with browser DOM APIs like `window` available.
+*   [legislature](https://www.infoplease.com/encyclopedia/social-science/government/concepts/legislature)
 
-## I
+*   [lese majesty](https://www.infoplease.com/encyclopedia/social-science/government/concepts/lese-majesty)
 
-### Inference
+*   [leze majesty](https://www.infoplease.com/encyclopedia/social-science/government/concepts/leze-majesty)
 
-As part of its data layer and [build](https://www.gatsbyjs.com/docs/glossary/#build) process, Gatsby will automatically **infer** a [schema](https://www.gatsbyjs.com/docs/glossary/#schema), or type-based structure, based on available data sources (e.g. Markdown file nodes, WordPress posts, etc.). More control can be gained over this structure by using Gatsby’s [Schema Customization API](https://www.gatsbyjs.com/docs/reference/graphql-data-layer/schema-customization/).
+*   [liberalism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/liberalism)
 
-### [Infrastructure as Code](https://www.gatsbyjs.com/docs/glossary/infrastructure-as-code/)
+*   [liberty](https://www.infoplease.com/encyclopedia/social-science/government/concepts/liberty)
 
-Infrastructure as Code is the practice of using configuration files and scripts to automate the process of setting up your development, testing, and production environments.
+*   [lobbying](https://www.infoplease.com/encyclopedia/social-science/government/concepts/lobbying)
 
-## J
+*   [local government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/local-government)
 
-### [JAMStack](https://www.gatsbyjs.com/docs/glossary/jamstack/)
+*   [mail](https://www.infoplease.com/encyclopedia/social-science/government/concepts/mail)
 
-JAMStack refers to a modern web architecture using [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript), [APIs](https://www.gatsbyjs.com/docs/glossary/#api), and ([HTML](https://www.gatsbyjs.com/docs/glossary/#html)) markup. From [JAMStack.org](https://jamstack.org/): “It’s a new way of building websites and apps that delivers better performance, higher security, lower cost of scaling, and a better developer experience.”
+*   [Marxism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/marxism)
 
-### JavaScript
+*   [military government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/military-government)
 
-A programming language that helps us make the web dynamic and interactive. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript) is a widely deployed web technology in browsers. It is also used on the server-side with [Node.js](https://www.gatsbyjs.com/docs/glossary/#node). It is an implementation of the [ECMAScript](https://www.gatsbyjs.com/docs/glossary/#ECMAScript) specification.
+*   [minister](https://www.infoplease.com/encyclopedia/social-science/government/concepts/minister)
 
-### [JSX](https://www.gatsbyjs.com/docs/glossary/jsx/)
+*   [monarchy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/monarchy)
 
-JSX is an extension to JavaScript that allows developers to write HTML and custom components in the same piece of code. The [React team recommends](https://reactjs.org/docs/introducing-jsx.html) using it to describe what a [UI](https://www.gatsbyjs.com/docs/glossary/#UI) should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript. Some important details to note are that because JSX uses JavaScript, some HTML attributes in your markup have to be swapped out to avoid reserved words in JavaScript (things like `htmlFor` and `className`).
+*   [municipal government](https://www.infoplease.com/encyclopedia/social-science/government/concepts/municipal-government)
 
-## K
+*   [municipal home rule](https://www.infoplease.com/encyclopedia/social-science/government/concepts/municipal-home-rule)
 
-## L
+*   [municipal ownership](https://www.infoplease.com/encyclopedia/social-science/government/concepts/municipal-ownership)
 
-### Linting
+*   [national assembly](https://www.infoplease.com/encyclopedia/social-science/government/concepts/national-assembly)
 
-Linting is the process of running a program that will analyze code for potential errors. The Gatsby project uses [prettier](https://prettier.io/) to identify and fix common style issues. Another example of a linter commonly used in React projects is [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y), which checks for common [accessibility](https://www.gatsbyjs.com/docs/glossary/#accessibility) issues in development.
+*   [nationalism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/nationalism)
 
-## M
+*   [nationality](https://www.infoplease.com/encyclopedia/social-science/government/concepts/nationality)
 
-### [MDX](https://www.gatsbyjs.com/docs/glossary/mdx/)
+*   [nationalization](https://www.infoplease.com/encyclopedia/social-science/government/concepts/nationalization)
 
-Extends [Markdown](https://www.gatsbyjs.com/docs/glossary/#markdown) to support [React](https://www.gatsbyjs.com/docs/glossary/#react) [components](https://www.gatsbyjs.com/docs/glossary/#component) within your content.
+*   [natural rights](https://www.infoplease.com/encyclopedia/social-science/government/concepts/natural-rights)
 
-### [Markdown](https://www.gatsbyjs.com/docs/glossary/markdown/)
+*   [naturalization](https://www.infoplease.com/encyclopedia/social-science/government/concepts/naturalization)
 
-A way of writing HTML content with plain text, using special characters to denote content types such as hash symbols for [headings](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements), and underscores and asterisks for text emphasis.
+*   [nonviolent resistance](https://www.infoplease.com/encyclopedia/social-science/government/concepts/nonviolent-resistance)
 
-## N
+*   [oligarchy](https://www.infoplease.com/encyclopedia/social-science/government/concepts/oligarchy)
 
-### [npm](https://www.gatsbyjs.com/docs/glossary/npm/)
+*   [ombudsman](https://www.infoplease.com/encyclopedia/social-science/government/concepts/ombudsman)
 
-[Node](https://www.gatsbyjs.com/docs/glossary/#node) [package](https://www.gatsbyjs.com/docs/glossary/#package) manager. Allows you to install and update other packages that your project depends on. [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby) and [React](https://www.gatsbyjs.com/docs/glossary/#react) are examples of your project’s dependencies. See also: [Yarn](https://www.gatsbyjs.com/docs/glossary/#yarn).
+*   [PAC](https://www.infoplease.com/encyclopedia/social-science/government/concepts/pac)
 
-### Node
+*   [parliamentary law](https://www.infoplease.com/encyclopedia/social-science/government/concepts/parliamentary-law)
 
-Gatsby uses [data nodes](https://www.gatsbyjs.com/docs/reference/graphql-data-layer/node-interface/) to represent a single piece of data. A [data source](https://www.gatsbyjs.com/docs/glossary/#data-source) will create multiple nodes.
+*   [party, political](https://www.infoplease.com/encyclopedia/social-science/government/concepts/party-political)
 
-### [Node.js](https://www.gatsbyjs.com/docs/glossary/node/)
+*   [passive resistance](https://www.infoplease.com/encyclopedia/social-science/government/concepts/passive-resistance)
 
-A program that lets you run [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) on your computer. Gatsby is powered by Node.
+*   [phalanstère](https://www.infoplease.com/encyclopedia/social-science/government/concepts/phalanstere)
 
-## O
+*   [plebiscite](https://www.infoplease.com/encyclopedia/social-science/government/concepts/plebiscite)
 
-## P
+*   [political action committee](https://www.infoplease.com/encyclopedia/social-science/government/concepts/political-action-committee)
 
-### Package
+*   [political science](https://www.infoplease.com/encyclopedia/social-science/government/concepts/political-science)
 
-A package usually describes a [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) program that has additional information about how it should be distributed and used, such as its version number. [npm](https://www.gatsbyjs.com/docs/glossary/#npm) and [Yarn](https://www.gatsbyjs.com/docs/glossary/#yarn) manages and installs the packages your project uses. [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby) itself is a package.
+*   [poll](https://www.infoplease.com/encyclopedia/social-science/government/concepts/poll)
 
-### Page
+*   [poll tax](https://www.infoplease.com/encyclopedia/social-science/government/concepts/poll-tax)
 
-An [HTML](https://www.gatsbyjs.com/docs/glossary/#html) page.
+*   [populism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/populism)
 
-This also often refers to [components](https://www.gatsbyjs.com/docs/glossary/#component) that live in `/src/pages/` and are converted to pages by [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby), as well as [pages created dynamically](https://www.gatsbyjs.com/docs/creating-and-modifying-pages/#creating-pages-in-gatsby-nodejs) in your `gatsby-node.js` file.
+*   [post office](https://www.infoplease.com/encyclopedia/social-science/government/concepts/post-office)
 
-### Plugin
+*   [postage stamp](https://www.infoplease.com/encyclopedia/social-science/government/concepts/postage-stamp)
 
-Additional code that adds functionality to Gatsby that wasn’t included out-of-the-box. Common [Gatsby plugins](https://www.gatsbyjs.com/plugins/) include [source](https://www.gatsbyjs.com/docs/glossary/#source-plugin) and [transformer](https://www.gatsbyjs.com/docs/glossary/#transformer) plugins for pulling in and manipulating data, respectively.
+*   [postal service](https://www.infoplease.com/encyclopedia/social-science/government/concepts/postal-service)
 
-### Production Environment
+*   [pragmatic sanction](https://www.infoplease.com/encyclopedia/social-science/government/concepts/pragmatic-sanction)
 
-The [environment](https://www.gatsbyjs.com/docs/glossary/#environment) for the [built](https://www.gatsbyjs.com/docs/glossary/#build) website or app that users will experience when [deployed](https://www.gatsbyjs.com/docs/glossary/#deploy). It can be accessed through the [CLI](https://www.gatsbyjs.com/docs/glossary/#cli) using `gatsby build` or `gatsby serve`.
+*   [premier](https://www.infoplease.com/encyclopedia/social-science/government/concepts/premier)
 
-### Programmatically
+*   [president](https://www.infoplease.com/encyclopedia/social-science/government/concepts/president)
 
-Something that automatically happens based on your code and configuration. For example, you might [configure](https://www.gatsbyjs.com/docs/glossary/#config) your project to create a [page](https://www.gatsbyjs.com/docs/glossary/#page) for every blog post written, or read and display the current year as part of a copyright in your site footer.
+*   [press, freedom of the](https://www.infoplease.com/encyclopedia/social-science/government/concepts/press-freedom-of-the)
 
-### [Progressive Enhancement](https://www.gatsbyjs.com/docs/glossary/progressive-enhancement/)
+*   [pressure group](https://www.infoplease.com/encyclopedia/social-science/government/concepts/pressure-group)
 
-Progressive enhancement is a strategy for the web that emphasizes core page content is loaded from a server before anything else, without [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) as a requirement to load. This strategy then progressively adds more complex layers of presentation and features on top of the content as the end user’s browser/network connection allow. Gatsby’s default approach to [building](https://www.gatsbyjs.com/docs/glossary/#build) pages ahead-of-time means content will load first and enhance as scripts download and execute.
+*   [primary](https://www.infoplease.com/encyclopedia/social-science/government/concepts/primary)
 
-### Public
+*   [prime minister](https://www.infoplease.com/encyclopedia/social-science/government/concepts/prime-minister)
 
-This usually refers to either a member of the public (as opposed to your team) or the folder `/public` in which your [built](https://www.gatsbyjs.com/docs/glossary/#build) website or app is saved.
+*   [proletariat](https://www.infoplease.com/encyclopedia/social-science/government/concepts/proletariat)
 
-## Q
+*   [propaganda](https://www.infoplease.com/encyclopedia/social-science/government/concepts/propaganda)
 
-### Query
+*   [proportional representation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/proportional-representation)
 
-The process of requesting specific data from somewhere. With Gatsby you normally query with [GraphQL](https://www.gatsbyjs.com/docs/glossary/#graphql).
+*   [public land](https://www.infoplease.com/encyclopedia/social-science/government/concepts/public-land)
 
-## R
+*   [public opinion poll](https://www.infoplease.com/encyclopedia/social-science/government/concepts/public-opinion-poll)
 
-### [React](https://www.gatsbyjs.com/docs/glossary/react/)
+*   [referendum](https://www.infoplease.com/encyclopedia/social-science/government/concepts/referendum)
 
-A code library (written with [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript)) for building user interfaces. It’s the framework that [Gatsby](https://www.gatsbyjs.com/docs/glossary/#gatsby) uses to build pages and structure content.
+*   [religion, freedom of](https://www.infoplease.com/encyclopedia/social-science/government/concepts/religion-freedom-of)
 
-### Remark
+*   [representation](https://www.infoplease.com/encyclopedia/social-science/government/concepts/representation)
 
-A parser to translate [Markdown](https://www.gatsbyjs.com/docs/glossary/#markdown) to other formats like [HTML](https://www.gatsbyjs.com/docs/glossary/#html) or [React](https://www.gatsbyjs.com/docs/glossary/#react) code.
+*   [republic](https://www.infoplease.com/encyclopedia/social-science/government/concepts/republic)
 
-### Runtime
+*   [revolution](https://www.infoplease.com/encyclopedia/social-science/government/concepts/revolution)
 
-Runtime is when a program is running (or being executable); it can refer to a few things. [Node.js](https://www.gatsbyjs.com/docs/glossary/#nodejs) is a [server-side](https://www.gatsbyjs.com/docs/glossary/#server-side) runtime that executes JavaScript code. [Client-side JavaScript](https://www.gatsbyjs.com/docs/glossary/#client-side), on the other hand, refers to the browser runtime where traditional JavaScript code executes. Gatsby compiles your site at [build time](https://www.gatsbyjs.com/docs/glossary/#build) and [rehydrates with a React runtime](https://www.gatsbyjs.com/docs/glossary/#hydration) to provide a fast, interactive, and dynamic user experience.
+*   [right](https://www.infoplease.com/encyclopedia/social-science/government/concepts/right)
 
-### Routing
+*   [Robert's Rules of Order](https://www.infoplease.com/encyclopedia/social-science/government/concepts/roberts-rules-of-order)
 
-Routing is the mechanism for loading the correct content in a website or app based on a network request - usually a URL. For example, it allows for routing URLs like `/about-us` to the appropriate [page](https://www.gatsbyjs.com/docs/glossary/#page), [template](https://www.gatsbyjs.com/docs/glossary/#template), or [component](https://www.gatsbyjs.com/docs/glossary/#component).
+*   [rules of order](https://www.infoplease.com/encyclopedia/social-science/government/concepts/rules-of-order)
 
-## S
+*   [Salic law](https://www.infoplease.com/encyclopedia/social-science/government/concepts/salic-law)
 
-### Schema
+*   [sanction](https://www.infoplease.com/encyclopedia/social-science/government/concepts/sanction)
 
-An exact representation of how data is stored in a system, such as tables and fields in a database or a JSON file structure. In Gatsby, the GraphQL schema expresses all queryable data - or data that components can ask about as part of Gatsby’s data layer.
+*   [secession](https://www.infoplease.com/encyclopedia/social-science/government/concepts/secession)
 
-### Server-side
+*   [separation of powers](https://www.infoplease.com/encyclopedia/social-science/government/concepts/separation-of-powers)
 
-The server-side part of the [client-server relationship](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) refers to operations performed by a computer program which manages access to a centralized resource or service in a computer network. See also: [frontend](https://www.gatsbyjs.com/docs/glossary/#frontend) and [backend](https://www.gatsbyjs.com/docs/glossary/#backend).
+*   [socialism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/socialism)
 
-### [Server-side rendering](https://www.gatsbyjs.com/docs/glossary/server-side-rendering/)
+*   [sovereignty](https://www.infoplease.com/encyclopedia/social-science/government/concepts/sovereignty)
 
-Using a [Node.js](https://www.gatsbyjs.com/docs/glossary/#nodejs)-based server to generate HTML in response to a request from a user agent such as a browser. Gatsby uses the server-side technology [Node.js](https://www.gatsbyjs.com/docs/glossary/#nodejs) to compile pages at build time, as opposed to serving them at [browser runtime](https://www.gatsbyjs.com/docs/glossary/#runtime) with [client-side](https://www.gatsbyjs.com/docs/glossary/#client-side) JavaScript.
+*   [sphere of influence](https://www.infoplease.com/encyclopedia/social-science/government/concepts/sphere-of-influence)
 
-### Source Code
+*   [stamp](https://www.infoplease.com/encyclopedia/social-science/government/concepts/stamp)
 
-Source code is your code that lives in `/src/` folder and makes up the unique aspects of your website or app. It is made up of [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) and sometimes [CSS](https://www.gatsbyjs.com/docs/glossary/#css) and other files.
+*   [state](https://www.infoplease.com/encyclopedia/social-science/government/concepts/state)
 
-The source code gets [built](https://www.gatsbyjs.com/docs/glossary/#build) into the site the [public](https://www.gatsbyjs.com/docs/glossary/#public) will see.
+*   [suffrage](https://www.infoplease.com/encyclopedia/social-science/government/concepts/suffrage)
 
-### Source Plugin
+*   [term limits](https://www.infoplease.com/encyclopedia/social-science/government/concepts/term-limits)
 
-A [plugin](https://www.gatsbyjs.com/docs/glossary/#plugin) that adds additional [data sources](https://www.gatsbyjs.com/docs/glossary/#data-source) to Gatsby that can then be [queried](https://www.gatsbyjs.com/docs/glossary/#query) by your [pages](https://www.gatsbyjs.com/docs/glossary/#page) and [components](https://www.gatsbyjs.com/docs/glossary/#component).
+*   [terrorism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/terrorism)
 
-### Starter
+*   [totalitarianism](https://www.infoplease.com/encyclopedia/social-science/government/concepts/totalitarianism)
 
-A pre-configured Gatsby project that can be used as a starting point for your project. They can be discovered using the [Gatsby Starter Library](https://www.gatsbyjs.com/starters/) and installed using the [Gatsby CLI](https://www.gatsbyjs.com/docs/starters/).
+*   [town](https://www.infoplease.com/encyclopedia/social-science/government/concepts/town)
 
-### Static
+*   [township](https://www.infoplease.com/encyclopedia/social-science/government/concepts/township)
 
-Gatsby [builds](https://www.gatsbyjs.com/docs/glossary/#build) static versions of your page that can be easily [hosted](https://www.gatsbyjs.com/docs/glossary/#hosting). This is in contrast to dynamic systems in which each page is generated on-the-fly. Being static affords major performance gains because the work only needs to be done once per content or code change.
+*   [Utopia](https://www.infoplease.com/encyclopedia/social-science/government/concepts/utopia)
 
-It also refers to the `/static` folder which is automatically copied into `/public` on each [build](https://www.gatsbyjs.com/docs/glossary/#build) for files that don’t need to be processed by Gatsby but do need to exist in [public](https://www.gatsbyjs.com/docs/glossary/#public).
+*   [veto](https://www.infoplease.com/encyclopedia/social-science/government/concepts/veto)
 
-### [Static Site Generator](https://www.gatsbyjs.com/docs/glossary/static-site-generator/)
+*   [village](https://www.infoplease.com/encyclopedia/social-science/government/concepts/village)
 
-A software application that creates HTML pages from templates or [components](https://www.gatsbyjs.com/docs/glossary/#component) and a given content source.
+*   [voting](https://www.infoplease.com/encyclopedia/social-science/government/concepts/voting)
 
-## T
+*   [voting machine](https://www.infoplease.com/encyclopedia/social-science/government/concepts/voting-machine)
 
-### Template
+*   [woman suffrage](https://www.infoplease.com/encyclopedia/social-science/government/concepts/woman-suffrage)
 
-A [component](https://www.gatsbyjs.com/docs/glossary/#component) that is [programmatically](https://www.gatsbyjs.com/docs/glossary/#programmatically) turned into a page by Gatsby.
 
-### Theme
-
-A Gatsby theme is like a WordPress theme that is composable (with other themes), extendable (with more logic), and replaceable ([shadowing](https://www.gatsbyjs.com/blog/2019-04-29-component-shadowing/)). Gatsby themes can have any facet of a Gatsby app packaged inside of them, and can also offer any number of knobs to turn features on or off.
-
-### Transformer
-
-A [plugin](https://www.gatsbyjs.com/docs/glossary/#plugin) that transforms one type of data to another. For example you might transform a spreadsheet into a [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) array.
-
-### Transpile
-
-The process of converting code from one syntax or format to another, such as TypeScript, a superset of JavaScript which provides custom type checking during development. [Babel](https://www.gatsbyjs.com/docs/glossary/#babel) is another common example of transpilation that reformats newer JavaScript code following the [ECMAScript](https://www.gatsbyjs.com/docs/glossary/#ecmascript) standard to be more backwards-compatible during the site [compilation](https://www.gatsbyjs.com/docs/glossary/#compiler) process.
-
-## U
-
-### UI
-
-A UI refers to a User Interface. In the field of human-computer interaction, a UI is a space where interactions between humans and machines occur. The goal of this interaction is to allow effective operation and control of the machine from the human end, while the machine simultaneously feeds back information that aids the user’s decision-making process (such as error messages or notifications).
-
-## V
-
-## W
-
-### [webpack](https://www.gatsbyjs.com/docs/glossary/webpack/)
-
-A [JavaScript](https://www.gatsbyjs.com/docs/glossary/#javascript) application that Gatsby uses to bundle your website’s code up. This happens automatically on [build](https://www.gatsbyjs.com/docs/glossary/#build).
-
-### [WPGraphQL](https://www.gatsbyjs.com/docs/glossary/wpgraphql/)
-
-A WordPress plugin that adds [GraphQL](https://www.gatsbyjs.com/docs/glossary/#graphql) capabilities to WordPress. It’s another way that you can use WordPress as a content source for Gatsby.
-
-## X
-
-## Y
-
-### [Yarn](https://www.gatsbyjs.com/docs/glossary/yarn/)
-
-A [package](https://www.gatsbyjs.com/docs/glossary/#package) manager that some prefer to [npm](https://www.gatsbyjs.com/docs/glossary/#npm). It is also required for [developing Gatsby](https://www.gatsbyjs.com/contributing/code-contributions#setting-up-your-local-dev-environment).
 
