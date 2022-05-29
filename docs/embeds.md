@@ -15,9 +15,7 @@ img_path: /images/banner-background-bg.jpg
 
  <iframe src="" style="width:1000px; height:1200px;" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
 
-<!----------------------------------google form---------------------------------------->
-
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCfTOg1FRiAQwvQg-OkqVbvcZu-_up_iWJoUwRefZWJjWaeA/viewform?embedded=true" width="640" height="845" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ <iframe src="" style="width:1000px; height:1200px;" loading="lazy" allowtransparency="true" allowfullscreen></iframe>
 
 ---
 
