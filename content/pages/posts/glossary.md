@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Geopolitical Glossary
 subtitle: lorem-ipsum
 date: '2022-05-21'
 thumb_img_alt: web development
