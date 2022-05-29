@@ -36,6 +36,7 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: Youtube Sources
+content_img_path: /images/youtube.jpg
 ---
 
 # Getting Started with Create React App&#xA;&#xA;
