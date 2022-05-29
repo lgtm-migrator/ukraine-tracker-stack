@@ -37,6 +37,7 @@ seo:
 layout: post
 subtitle: Youtube Sources
 content_img_path: /images/youtube.jpg
+excerpt: Youtube sources
 ---
 
 # Getting Started with Create React App&#xA;&#xA;
