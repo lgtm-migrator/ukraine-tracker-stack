@@ -10,7 +10,7 @@ seo:
   description: geopolitical  glossary
   robots: []
   extra:
-    - name: ''
+    - name: content
       value: ''
       keyName: name
       relativeUrl: false
