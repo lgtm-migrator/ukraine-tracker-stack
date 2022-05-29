@@ -3,7 +3,7 @@ layout: post
 subtitle: Geopolitical Glossary
 date: '2022-05-29'
 thumb_img_alt: Ukraine geopolitics
-excerpt: lorem-ipsum
+excerpt: 'a '
 hide_header: false
 seo:
   title: web development glossary
