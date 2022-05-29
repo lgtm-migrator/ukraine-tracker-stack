@@ -12,7 +12,7 @@ seo:
   extra:
     - name: content
       value: glossary
-      keyName: name
+      keyName: glossary
       relativeUrl: false
     - name: ''
       value: ''
