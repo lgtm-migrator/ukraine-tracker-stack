@@ -5,7 +5,7 @@ thumb_img_path: /images/youtube.jpg
 thumb_img_alt: youtube logo fancy
 hide_header: false
 seo:
-  title: Fragments of Iceland
+  title: Youtube Videos
   description: youtube sources for this website/article
   extra:
     - name: 'og:type'
