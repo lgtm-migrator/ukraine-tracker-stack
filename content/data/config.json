@@ -37,22 +37,7 @@
                 "new_window": false,
                 "no_follow": false
             },
-            {
-                "label": "Resume",
-                "url": "resume",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "Interview-Prep",
-                "url": "posts/300-react-questions",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            },
+
             {
                 "label": "Contact",
                 "url": "/contact",
