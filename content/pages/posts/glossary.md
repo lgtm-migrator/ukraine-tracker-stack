@@ -14,6 +14,10 @@ seo:
       value: ''
       keyName: name
       relativeUrl: false
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
 thumb_img_path: /images/istockphoto-1398838719-170667a-a08f08ea.jpg
 content_img_path: /images/istockphoto-1398838719-170667a-a08f08ea.jpg
 title: Glossary
