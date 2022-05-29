@@ -7,7 +7,7 @@ excerpt: a laymans glossary guide
 hide_header: false
 seo:
   title: geopolitical glossary
-  description: web development glossary
+  description: geopolitical  glossary
   robots: []
   extra:
     - name: ''
